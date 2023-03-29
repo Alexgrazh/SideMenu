@@ -11,8 +11,9 @@ class InfoViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         
+        title = "About this App"
+        view.backgroundColor = .systemYellow
     }
     
 
