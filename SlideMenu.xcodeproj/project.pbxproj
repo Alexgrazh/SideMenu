@@ -14,6 +14,7 @@
 		E7A8992A29D4328800127083 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7A8992829D4328800127083 /* LaunchScreen.storyboard */; };
 		E7A8993329D4388E00127083 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A8993229D4388E00127083 /* MenuViewController.swift */; };
 		E7A8993529D4389800127083 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A8993429D4389800127083 /* HomeViewController.swift */; };
+		E7A8993729D45E3800127083 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A8993629D45E3800127083 /* InfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E7A8992B29D4328800127083 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7A8993229D4388E00127083 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		E7A8993429D4389800127083 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		E7A8993629D45E3800127083 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				E7A8992129D4328600127083 /* ContainerViewController.swift */,
 				E7A8993229D4388E00127083 /* MenuViewController.swift */,
 				E7A8993429D4389800127083 /* HomeViewController.swift */,
+				E7A8993629D45E3800127083 /* InfoViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				E7A8992229D4328600127083 /* ContainerViewController.swift in Sources */,
 				E7A8991E29D4328600127083 /* AppDelegate.swift in Sources */,
 				E7A8992029D4328600127083 /* SceneDelegate.swift in Sources */,
+				E7A8993729D45E3800127083 /* InfoViewController.swift in Sources */,
 				E7A8993329D4388E00127083 /* MenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

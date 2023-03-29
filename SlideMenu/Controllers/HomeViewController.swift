@@ -24,6 +24,7 @@ class HomeViewController: UIViewController {
                                                            style: .done,
                                                            target: self,
                                                            action: #selector(didTapMenuButton))
+   
     }
     
     @objc func didTapMenuButton(){
